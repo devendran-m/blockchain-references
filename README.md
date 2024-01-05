@@ -1,26 +1,3 @@
-# Practice / Reference programs
-
-This repository contains practice and/or reference code that may be handy for newcomers on Blockchain. The codes include simple references across topics like cryptographic algorithms, along with the reference articles or documentation used to create those references.
-
-## Repository structure
-
-
-```bash
-practice_code/
-├── cryptography  /*Practice crypto algorithm programs*/
-│   ├── blake2b.py /*Blake2b*/
-│   ├── chacha20.py /*ChaCha20*/
-│   ├── chachadecrypt.py /*ChaCha Encryption*/
-│   ├── chachaencrypt.py /*ChaCha Decryption*/
-│   └── chacharng.py /*ChaCha Random Number Generation*/
-├── LICENSE
-└── README.md
-
-```
-
-## Reference Articles / Materials
- used in creating the 
-
 # Practice / Reference Programs
 
 Welcome to this repository, which is dedicated to providing practice and reference code for newcomers in the Blockchain domain. The focus here is on offering simple yet insightful examples, particularly in the realm of cryptographic algorithms. Each piece of code is accompanied by the reference articles or documentation that inspired or informed its creation, making this a valuable resource for learning and exploration.
